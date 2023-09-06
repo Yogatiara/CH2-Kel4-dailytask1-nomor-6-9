@@ -12,4 +12,3 @@ FLOWCHART:
 <p style="text-align: center">
   <img  src="/Flowchart/Number6.drawio.png">
 </p>
-d
