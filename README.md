@@ -7,8 +7,9 @@ Tentukan user yang gender female ATAU user yang eyeColor nya brown dan ada berap
 
 <br><br>
 FLOWCHART:
-<br><br><br>
+<br><br>
 
 <p style="text-align: center">
   <img  src="/Flowchart/Number6.drawio.png">
 </p>
+d
