@@ -7,4 +7,6 @@ Tentukan user yang gender female ATAU user yang eyeColor nya brown dan ada berap
 
 FLOWCHART:
 
-![flowchart nomor 6](/Flowchart/Number6.drawio.png)
+<p style="text-align: center">
+  <img  src="/Flowchart/Number6.drawio.png">
+</p>
